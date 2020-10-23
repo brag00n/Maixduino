@@ -15,9 +15,9 @@
                     "version": "0.3.12-1",
                     "architecture": "k210",
                     "url": "https://github.com/UT2UH/Maixduino/archive/v0.3.12-1.tar.gz",
-                    "checksum": "SHA-256:03A7A7E245494460E581883AEB19CE01D7037E327940F5DF025971ECCA3AF235",
-                    "archiveFileName": "Maixduino_core_v0.3.12-1.zip",
-                    "size": "1905004",
+                    "checksum": "SHA-256:A0EE87AD2150CD9C312B73DFB4B1FB61329373BE3A4114AA8E9FD62C8F22A939",
+                    "archiveFileName": "Maixduino-0.3.12-1.tar.gz",
+                    "size": "190709",
                     "boards": [
                         {"name": "M5Stack M5StickV"},
                         {"name": "M5Stack M5UnitV"},
@@ -29,7 +29,8 @@
                         {"name": "Sipeed Maix Dock M1W"},
                         {"name": "Sipeed Maix Bit"},
                         {"name": "Sipeed Maix Bit-Mic"},
-                        {"name": "LamLoei AIoT DaaN"}
+                        {"name": "LamLoei AIoT DaaN"},
+                        {"name": "IOXGD4"}
                     ],
                     "toolsDependencies": [
                         {

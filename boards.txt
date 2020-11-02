@@ -27,12 +27,8 @@ stickv.menu.burn_baudrate.1500000.build.burn_baudrate=1500000
 stickv.menu.burn_baudrate.1000000.build.burn_baudrate=1000000
 
 ## Burn tool firmware
-stickv.menu.burn_tool_firmware.stickE=open-ec
-stickv.menu.burn_tool_firmware.stick1=CH552T-1
-stickv.menu.burn_tool_firmware.stick2=CH552T-2
-stickv.menu.burn_tool_firmware.stickE.build.burn_tool_firmware=goE
+stickv.menu.burn_tool_firmware.stick1=CH340
 stickv.menu.burn_tool_firmware.stick1.build.burn_tool_firmware=bit-mic
-stickv.menu.burn_tool_firmware.stick2.build.burn_tool_firmware=maixduino
 
 
 ## Point to the file for ./variants/<variant>/pins_arduino.h
@@ -77,10 +73,8 @@ unitv.menu.burn_baudrate.1500000.build.burn_baudrate=1500000
 unitv.menu.burn_baudrate.1000000.build.burn_baudrate=1000000
 
 ## Burn tool firmware
-unitv.menu.burn_tool_firmware.unitE=open-ec
-unitv.menu.burn_tool_firmware.unitD=maixduino
-unitv.menu.burn_tool_firmware.unitE.build.burn_tool_firmware=goE
-unitv.menu.burn_tool_firmware.unitD.build.burn_tool_firmware=maixduino
+unitv.menu.burn_tool_firmware.unit1=CH340
+unitv.menu.burn_tool_firmware.unit1.build.burn_tool_firmware=bit-mic
 
 ## Point to the file for ./variants/<variant>/pins_arduino.h
 unitv.build.variant=m5stack_m5unit_v

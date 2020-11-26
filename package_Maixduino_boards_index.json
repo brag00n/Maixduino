@@ -53,21 +53,21 @@
                     "systems":
                     [
                         {
-                            "url": "https://dl.sipeed.com/MAIX/Maixduino/tools/win/kendryte-toolchain-win-amd64-8.2.0-20190409.zip",
+                            "url": "https://github.com/kendryte/kendryte-gnu-toolchain/releases/download/v8.2.0-20190409/kendryte-toolchain-win-amd64-8.2.0-20190409.zip",
                             "checksum": "SHA-256:049CAA0DCC987BB67FCE9EF8B1F80824EFB8077223C10B27F2CED87C100A94F4",
                             "host": "i686-mingw32",
                             "archiveFileName": "kendryte-toolchain-win-amd64-8.2.0-20190409.zip",
                             "size": "53852204"
                         },
                         {
-                            "url": "https://dl.sipeed.com/MAIX/Maixduino/tools/linux/kendryte-toolchain-ubuntu-amd64-8.2.0-20190409.tar.bz2",
+                            "url": "https://github.com/kendryte/kendryte-gnu-toolchain/releases/download/kendryte-toolchain-ubuntu-amd64-8.2.0-20190409.tar.bz2",
                             "checksum": "SHA-256:4329485768FB2D03F4A1F8D752A0F217C7638A0A5D8BE79CFC2B6B0CEE823CD0",
                             "host": "x86_64-linux-gnu",
                             "archiveFileName": "kendryte-toolchain-ubuntu-amd64-8.2.0-20190409.tar.bz2",
                             "size": "47838868"
                         },
                         {
-                            "url": "https://dl.sipeed.com/MAIX/Maixduino/tools/osx/kendryte-toolchain-osx-mojave-8.2.0-20190409.tar.bz2",
+                            "url": "https://github.com/kendryte/kendryte-gnu-toolchain/releases/download/kendryte-toolchain-osx-mojave-8.2.0-20190409.tar.bz2",
                             "checksum": "SHA-256:786486C81E4CCF87227C3EA228CDC8721228DEE60160341725DAEE57567B775D",
                             "host": "x86_64-apple-darwin",
                             "archiveFileName": "kendryte-toolchain-osx-mojave-8.2.0-20190409.tar.bz2",

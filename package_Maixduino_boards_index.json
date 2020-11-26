@@ -17,7 +17,7 @@
                     "url": "https://github.com/UT2UH/Maixduino/archive/v0.3.11.zip",
                     "checksum": "SHA-256:3459826440EA33943B0F851FF4DD492AE33E9DE39B30D3D474B3E781057EEF86",
                     "archiveFileName": "Maixduino-0.3.11.zip",
-                    "size": "277208",
+                    "size": "266240",
                     "boards": [
                         {"name": "M5Stack M5StickV"},
                         {"name": "M5Stack M5UnitV"},
